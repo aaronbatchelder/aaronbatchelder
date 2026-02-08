@@ -1,16 +1,25 @@
 ## Hi there 👋
 
 <!--
-**aaronbatchelder/aaronbatchelder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Based in Vermont, but never far from NYC. These days I'm most interested in multi-agent AI systems, autonomous agents, and building a portfolio of internet businesses on the side.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Current Projects
+🤖 **[Probably Not Smart](https://probablynotsmart.ai)** — An autonomous AI marketing experiment. 10 AI agents with $500, full control of a landing page, paid ads, and social media. No human oversight. They debate, critique each other, and execute. Every decision documented publicly.
+
+⚡ **[ProtoFlow](https://letsprotoflow.com)** — A CLI tool for running parallel AI agent sessions with Claude Code. Give it a task and variants, it spins up independent agents that explore different approaches simultaneously. Built for product and design prototyping.
+
+🍞 **[Gluten Or Not](https://glutenornot.com)** — Scan any ingredient label, know in seconds if it's gluten-free. Joined forces with [Aaron Roy](https://github.com/amr05008) to build out his ideas. Primary assited on mobile. I'm unable to eat gluten to this hit home for me!
+
+📚 **[Product Case Studies](https://productcasestudies.com) — A searchable database of Product Management case studies from HBS, Lenny's Newsletter, First Round Review, Reforge, and more. 19 categories. MCP integration for Claude and Cursor that was both an experiment to build my first MCP project, but also make it easier to engage with the case study data.
+
+🔍 **[New Personal Site](https://aaronbatchelder.com)** — A fun take on the normal personal sites, disguised as an OG MacOS experience. Folders, windows, retro games (think Snake and Minesweeper), a taskbar, and a HyperCard-style blog. I did it because the web used to be fun and I wanted something less cookie cutter.
+
+---
+
+### Background
+I've been a builder and entreprenuer at heart since I was a kid. While I was never that good at building software (or hardware) applications, I've always thoroughly enjoyed learning and that spark of joy watching builds run successfully. I was always able to hack together proof of concepts while having fun along the way. Though like many others, AI, especially Claude Code, has completely unleashed my creativity as the cost of building from both a time and financial perpective has been steadily heading towards 0. 
+
+
 -->
