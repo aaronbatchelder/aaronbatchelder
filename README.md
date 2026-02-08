@@ -9,7 +9,7 @@ Based in Vermont, but never far from NYC. These days I'm most interested in mult
 
 ⚡ **[ProtoFlow](https://letsprotoflow.com)** — A CLI tool for running parallel AI agent sessions with Claude Code. Give it a task and variants, it spins up independent agents that explore different approaches simultaneously. Built for product and design prototyping.
 
-🍞 **[Gluten Or Not](https://glutenornot.com)** — Scan any ingredient label, know in seconds if it's gluten-free. Joined forces with [Aaron Roy](https://github.com/amr05008) to build out his ideas. Primary assited on mobile. I'm unable to eat gluten to this hit home for me!
+🍞 **[Gluten Or Not](https://glutenornot.com)** — Scan any ingredient label, know in seconds if it's gluten-free. Joined forces with [Aaron Roy](https://github.com/amr05008) to build out his idea for this product. Primarily on mobile. I'm unable to eat gluten so this hit home for me!
 
 📚 **[Product Case Studies](https://productcasestudies.com)** — A searchable database of Product Management case studies from HBS, Lenny's Newsletter, First Round Review, Reforge, and more. 19 categories. MCP integration for Claude and Cursor that was both an experiment to build my first MCP project, but also make it easier to engage with the case study data.
 
