@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 Based in Vermont, but never far from NYC. These days I'm most interested in multi-agent AI systems, autonomous agents, and building a portfolio of internet businesses on the side.
 
 ---
@@ -12,14 +11,12 @@ Based in Vermont, but never far from NYC. These days I'm most interested in mult
 
 🍞 **[Gluten Or Not](https://glutenornot.com)** — Scan any ingredient label, know in seconds if it's gluten-free. Joined forces with [Aaron Roy](https://github.com/amr05008) to build out his ideas. Primary assited on mobile. I'm unable to eat gluten to this hit home for me!
 
-📚 **[Product Case Studies](https://productcasestudies.com) — A searchable database of Product Management case studies from HBS, Lenny's Newsletter, First Round Review, Reforge, and more. 19 categories. MCP integration for Claude and Cursor that was both an experiment to build my first MCP project, but also make it easier to engage with the case study data.
+📚 **[Product Case Studies](https://productcasestudies.com)** — A searchable database of Product Management case studies from HBS, Lenny's Newsletter, First Round Review, Reforge, and more. 19 categories. MCP integration for Claude and Cursor that was both an experiment to build my first MCP project, but also make it easier to engage with the case study data.
 
 🔍 **[New Personal Site](https://aaronbatchelder.com)** — A fun take on the normal personal sites, disguised as an OG MacOS experience. Folders, windows, retro games (think Snake and Minesweeper), a taskbar, and a HyperCard-style blog. I did it because the web used to be fun and I wanted something less cookie cutter.
 
 ---
 
 ### Background
-I've been a builder and entreprenuer at heart since I was a kid. While I was never that good at building software (or hardware) applications, I've always thoroughly enjoyed learning and that spark of joy watching builds run successfully. I was always able to hack together proof of concepts while having fun along the way. Though like many others, AI, especially Claude Code, has completely unleashed my creativity as the cost of building from both a time and financial perpective has been steadily heading towards 0. 
+I've been a builder and entrepreneur at heart since I was a kid. While I was never a traditional engineer, I've always loved learning and the spark when software works. Like many others, AI, especially Claude Code, has completely unleashed my creativity as the cost of building from both a time and financial perspective keeps heading toward zero. You'll find me on here exploring questions and ideas that fascinate me, and heading wherever inspiration takes me. 
 
-
--->
