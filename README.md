@@ -3,8 +3,11 @@
 Based in Vermont, but never far from NYC. These days I'm most interested in multi-agent AI systems, autonomous agents, and building a portfolio of internet businesses on the side.
 
 ---
+### Closed-Source Projects
+📈 **[Smarter Domain Search](https://smarterdomainsearchl.com)** — An AI-powered domain search tool that combines keyword intelligence and semantic expansion to help users discover available, high-value domain names beyond exact-match queries.
 
-### Current Projects
+
+### Open Source Projects
 🤖 **[Probably Not Smart](https://probablynotsmart.ai)** — An autonomous AI marketing experiment. 10 AI agents with $500, full control of a landing page, paid ads, and social media. No human oversight. They debate, critique each other, and execute. Every decision documented publicly.
 
 ⚡ **[ProtoFlow](https://letsprotoflow.com)** — A CLI tool for running parallel AI agent sessions with Claude Code. Give it a task and variants, it spins up independent agents that explore different approaches simultaneously. Built for product and design prototyping.
