@@ -8,7 +8,7 @@ Based in Vermont, but never far from NYC. These days I'm most interested in mult
 
 
 ### Open Source Projects
-🐚 **[ShellMail](https://shellmail.ai)** — Give your OpenClaw agent an inbox in under 60 seconds. No servers. No config. Just email that works.
+🐚 **[ShellMail](https://shellmail.ai)** — Give your OpenClaw and AI agent an inbox in under 60 seconds. No servers. No config. Just email that works.
 
 🤖 **[Probably Not Smart](https://probablynotsmart.ai)** — An autonomous AI marketing experiment. 10 AI agents with $500, full control of a landing page, paid ads, and social media. No human oversight. They debate, critique each other, and execute. Every decision documented publicly.
 
