@@ -8,7 +8,7 @@ Based in Vermont, but never far from NYC. These days I'm most interested in mult
 
 
 ### Open Source Projects
-🐚 **[ShellMail](https://shellmail.ai)** — Give your OpenClaw and AI agent an inbox in under 60 seconds. No servers. No config. Just email that works.
+🐚 **[shellmail](https://shellmail.ai)** — Give your OpenClaw and AI agent an inbox in under 60 seconds. No servers. No config. Just email that works.
 
 💸 **[Claude Marketing Susceptibility Testing](https://github.com/aaronbatchelder/claude-marketing-susceptibility-eval)** - Replicatable experiements attempting to understand how marketing tactics influence AI shopping agent purchasing decisions. 
 
